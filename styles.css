@@ -22,7 +22,9 @@ body {
       height: 100%;
       background-color: orange;
       border: none;
-      font-size: 3em;
+      font-size: 2em;
+      text-transform: uppercase;
+      letter-spacing: 2px;
   }
   #button {
       width: 100%;
