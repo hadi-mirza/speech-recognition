@@ -11,6 +11,5 @@ mic.addEventListener("click", (event) => {
 });
 
 recognition.addEventListener("result", (e) => {
-    // console.log(e)
     words.innerHTML = e.results[0][0].transcript
 });
