@@ -2,4 +2,4 @@
 
 ## Play
 
-https://hvzy.github.io/speech-recognition/
+https://hadi-mirza.github.io/speech-recognition/
